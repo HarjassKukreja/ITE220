@@ -83,7 +83,7 @@ var shop = {
 }
 shop.displayCustomerName();
 shop.displayCustomerList();
-shop.displayTotalPrice();
-
+shop.displayTotalPrice
 
 //Aj. some  taken in js.
+
